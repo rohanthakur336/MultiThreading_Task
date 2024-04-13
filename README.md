@@ -19,4 +19,4 @@ To perform multiplication of 100 matrices of size 1000 X 1000 with varying numbe
 ![image](./public/graph.PNG)
 ![image](./public/table.PNG)
 
-It is observed that the minimum time is taken when the the number of threads are 4.
+It is observed that the minimum time is taken when the the number of threads are 7.
